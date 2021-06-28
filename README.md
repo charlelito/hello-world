@@ -1,2 +1,5 @@
 # hello-world
-Just my first step creating an Portfolio
+
+Hi Humans!
+
+Just my first step creating a Portfolio
